@@ -8,6 +8,10 @@
 th {
     text-align: left;
 }
+li {
+	height: 40px;
+	width: 40px;
+}
 
 #color_me li{
  	display:block;
